@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-image: url("background.jpg");
+  color: white;
+}
+.conheader {
+  text-align: center;
+  display: block;
+}
+.conheader span {
+  color: red;
+}
+.condes {
+  text-align: center;
+}
+
+.coninform {
+  margin: 10px 470px;
+  padding: 10px 40px;
+  background-color: rgba(0, 0, 0, 0.3);
+  width: fit-content;
+  /* display: block; */
+}
+.conform {
+  padding: 10px 30px;
+  background-color: black;
+  display: block;
+  /* width: fit-content; */
+}
+
+.conform input {
+  width: 250px;
+  height: 30px;
+  border-style: double;
+}
+.conselect {
+  padding: 5px 30px;
+  background-color: black;
+  display: block;
+  /* width: fit-content; */
+}
+.conselect select {
+  width: 250px;
+  height: 30px;
+  border-style: double;
+}
+.conpart {
+  padding: 5px 30px;
+  background-color: black;
+  display: block;
+  /* width: fit-content; */
+}
+.confeed {
+  padding: 5px 30px;
+  background-color: black;
+  display: block;
+}
+.button {
+  /* display: block; */
+  width: 100px;
+  height: 30px;
+  margin: 0 60px;
+  padding: 0 20px;
+  background-color: red;
+  border: 1px;
+  border-radius: 10px;
+}
