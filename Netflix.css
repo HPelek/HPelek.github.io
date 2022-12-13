@@ -35,10 +35,12 @@ body {
   height: max-content;
   border: 100px;
   background-color: black;
+
 }
 .container {
   background-color: rgba(0, 0, 0, 0.4);
   margin: 0 15%;
+
 }
 form {
   background-color: rgba(0, 0, 0, 0.5);
@@ -59,6 +61,7 @@ form:hover {
   padding: 10px;
   margin-bottom: 20px;
   margin-top: 10px;
+  margin-
 }
 
 .button {
