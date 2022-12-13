@@ -55,7 +55,7 @@ form:hover {
 }
 .conform {
   border-radius: 5px;
-  width: 300px;
+  width: 100%;
   padding: 10px;
   margin-bottom: 20px;
 }
