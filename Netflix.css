@@ -47,7 +47,7 @@ form {
   padding: 50px;
   border: 10px;
   display: block;
-  font-weight: bold;
+  /* font-weight: bold; */
 }
 form:hover {
   box-shadow: 100px;
@@ -58,6 +58,7 @@ form:hover {
   width: 100%;
   padding: 10px;
   margin-bottom: 20px;
+  margin-top: 10px;
 }
 
 .button {
