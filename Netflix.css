@@ -20,7 +20,7 @@
 .condes {
   text-align: center;
   display: block;
-  font-weight: bold;
+  /* font-weight: bold; */
   font-size: 2rem;
   font-family: "Sorts Mill Goudy", serif;
 }
