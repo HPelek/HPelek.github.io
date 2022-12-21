@@ -127,11 +127,14 @@ div.but button {
   border-radius: 10%;
 }
 .count {
-  margin-bottom: 0.5rem;
+  border-bottom: 1px solid #e4e4e4;
+  margin-left: 13px;
+  color: #5f6368;
+  font-family: Arial, sans-serif;
 }
 .count p {
   color: grey;
-  font-size: 17px;
+  font-size: 13px;
   display: inline-block;
   font-size: small;
 }
