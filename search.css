@@ -11,19 +11,14 @@
 
 main {
   text-align: center;
-
   margin: 15% 30%;
   display: inline-block;
 }
 .gi {
-  /* display: inline-block; */
   height: 48px;
   width: 290px;
   float: right;
   margin-top: 1rem;
-}
-.but {
-  width: 580px;
 }
 
 .voice {
@@ -36,7 +31,6 @@ main {
   width: 20px;
   height: 20px;
   vertical-align: middle;
-  /* border: 5px solid red ; */
 }
 a {
   height: 24px;
@@ -60,6 +54,7 @@ div.gi button {
   background-color: #1b66c9;
   border-radius: 10%;
   border-style: none;
+  color: #dadce0;
 }
 
 div.gi img {
@@ -125,6 +120,7 @@ div.but button {
   line-height: 5px;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   border-radius: 4px;
+  cursor: pointer;
 }
 .count {
   border-bottom: 1px solid #e4e4e4;
@@ -155,13 +151,11 @@ footer {
   background-color: #f2f2f2;
 }
 .left {
-  /* display: inline-block; */
   float: left;
   font-size: small;
 }
 
 .right {
-  /* display: inline-block; */
   float: right;
   font-size: small;
 }
