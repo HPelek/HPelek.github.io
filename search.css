@@ -124,7 +124,7 @@ div.but button {
   font-size: 14px;
   line-height: 5px;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-  border-radius: 10%;
+  border-radius: 4px;
 }
 .count {
   border-bottom: 1px solid #e4e4e4;
